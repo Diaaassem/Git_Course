@@ -1,2 +1,3 @@
 # Git_Course
-For learning how git works
+### For learning how git works
+## Project Notes
